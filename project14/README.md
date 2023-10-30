@@ -1,4 +1,7 @@
-
-
-
-|14             |[Выпускной проект](graduation_project/). [Банки — cегментация пользователей по потреблению продуктов](https://github.com/ovalentinka/Data_analyst/blob/c2e103c7f7d92711fbd40179cdc8134f6d8eccca/graduation_project/yandex_ex1_bank_karpova_new.ipynb), [Презентация](https://github.com/ovalentinka/Data_analyst/blob/3bf2397fe88cd31b36c5b31d4de416e04f80fd63/graduation_project/yandex_ex1_bank_prez_ovkarpova.pdf) и [Дашборд](https://public.tableau.com/app/profile/oxana3540/viz/product_activity/Dashboard1); [А/B тестирование]
+| №| Название и ссылка | Задача ппроекта |Описание проекта | Навыки и инструменты           |  
+|---|-------------------|----------------------------------------------|------------------------------------|-----------------------------------|
+|1              |[Проект 1](project14/bootcamp.ipynb)|Сравнение поведения пользователей двух столиц Москвы и Петербурга.|dfgd|`Python` `Pandas`|
+|2              |[Презентация и дашборд](project14/)|презентация дашборд|dfdgd|`предобработка данных` `Python` `Pandas`|
+|3              |[SQL](project14/)|SQL|fgdfg|`Python` `Pandas` `Matplotlib` `предобработка данных` `исследовательский анализ данных` `визуализация данных`|
+|4              |[АБ тестирование](project4/)|Используя данные государственного портала и сервиса “КиноПоиск”, проведите исследование, изучите текущие тренды и визуализируйте полученные результаты.|dfgdfg |`Python` `Pandas` `предобработка данных` `исследовательский анализ данных` `визуализация`|
+|5              |[сборный проект](project5/)|сборный проект|dfgdf|`SQL` `PostgreSQL`|
